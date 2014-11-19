@@ -1,0 +1,16 @@
+{
+  "name": "zetta-volos-analytics",
+  "version": "0.1.0",
+  "description": "An extension for Zetta to allow analytics via volos.",
+  "main": "analytics_extension.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zetta",
+    "volos",
+    "analytics"
+  ],
+  "author": "Kevin Swiber <kswiber@gmail.com>",
+  "license": "MIT"
+}
